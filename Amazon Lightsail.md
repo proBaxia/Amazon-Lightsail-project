@@ -58,4 +58,4 @@ You have added, edited, and deleted firewall rules for an Amazon Lightsail insta
 
 Amazon Lightsail is a great choice to develop, build, and deploy a variety of applications like WordPress, websites, and blog platforms.
 
-OLADIMJI (G) AKINTADE >>> AWS Cloud Club Unilag Chapter
+OLADIMJI (G) AKINTADE >>> AWS Cloud Club Unilag Chapter 
